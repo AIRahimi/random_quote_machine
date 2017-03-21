@@ -20,10 +20,16 @@ body p {
 	background: #FFF;
 }
 
-.jumbotron h1, .jumbotron p{
+.jumbotron h2{
 	color: #222;
+  display: inline-block;
 }
 
 .temp {
 	border: 6px solid #222;
+}
+
+.damion {
+	font-family: 'Damion', cursive;
+	font-size: 40px;
 }
